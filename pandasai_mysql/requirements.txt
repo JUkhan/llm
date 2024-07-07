@@ -1,2 +1,7 @@
 pandasai[connectors]
 streamlit
+langchain_anthropic
+seaborn
+python_dotenv
+
+langchain_groq

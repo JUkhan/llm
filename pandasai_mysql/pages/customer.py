@@ -26,6 +26,8 @@ df_connector = SmartDataframe(
 
 st.title("MySql with Lama-2")
 
+#st.write(df_connector.chat('Write the first five row'))
+
 prompt = st.text_input("Enter your prompt:")
 
 if st.button("Generate"):
