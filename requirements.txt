@@ -1,7 +1,11 @@
 pandasai[connectors]
 streamlit
+groq
+langchain==0.1.16
+langchain-core
+langchain-groq
 langchain_anthropic
 seaborn
 python_dotenv
 
-langchain_groq
+
